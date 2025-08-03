@@ -1,6 +1,6 @@
 # transfer_all_chrome_cookies
 Convert the cookies file to transfer all chrome cookies to another computer's chrome
-Most of codes about v20 key are from https://github.com/runassu/chrome_v20_decryption,and v10 from https://stackoverflow.com/questions/78482316/decrypt-re-encrypt-chrome-cookies
+Most of codes about v20 key are from https://github.com/runassu/chrome_v20_decryption   and v10 from https://stackoverflow.com/questions/78482316/decrypt-re-encrypt-chrome-cookies
 Remember to backup the cookies file!
 
 step 1:
